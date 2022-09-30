@@ -1,35 +1,33 @@
-body{
-    background: url(./developer.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
- }
- 
- .heading{
+div{
+    border-color: cadetblue;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin-bottom: 50%;
+    margin-right: 50%;
+    padding-right: auto;
+    padding-bottom: 1%;
+
+    
+}
+.h33{
+    color: red;
+}
+span{
+    color: green;
+    text-underline-position: initial;
+}
+.t1{
+    background-color: black;
     color: white;
-    font-size: 40px;
-    text-align: center;
-    font-weight: bold;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
- }
- img {  
-    max-width: 100%;  
-    height: 145px; 
-    margin-top: -120px; 
- }
- .h1{   
-    margin-left: 155px;
-    margin-bottom: -2%;
- }
- .html{   
-    padding-left: 66%;
-    color: white;
-    font-style: italic;
-    font-size: 30px;
- }
- .ul{
-    padding-left: 66%;
-    color: white;
-    font-style: italic;
-    font-size: 30px;
- }
+}
+table{
+    border: none;
+}
+tr{
+    border:none;
+
+}
+td{
+    border: none;
+    
+}
